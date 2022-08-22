@@ -7,6 +7,6 @@
 ## Code 301 - Intermediate Software Development
 | First Header  | Second Header |
 | ------------- | ------------- |
-|  <[class-01](./class-01.md)>      | Introduction to React and Components  |
+|  [class-01](./class-01.md)     | Introduction to React and Components  |
 | class-02      | State and Props |
 ## Code 401 - Advanced Software Development
