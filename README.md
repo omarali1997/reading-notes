@@ -8,7 +8,7 @@
 #
 
 | First Header                  | Second Header                              |
-| ----class-02----------------- | -------------------------------------      |
+| ----------------------------- | ------------------------------------------ |
 | [class-01](./class-01.md)     | Introduction to React and Components       |
 | [class-02](./class-02.md)     | State and Props                            |
 | [class-03](./class-03.md)     | Passing Functions as Props                 |
