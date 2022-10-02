@@ -30,18 +30,18 @@
 
 | First Header                  | Second Header                              |
 | ----------------------------- | ------------------------------------------ |
-| [class-01](./401/class-01.md)     |   Intro to Python     |
-| [class-02](./401/class-02.md)     |        |
-| [class-03](./401/class-03.md)     |        |
-| [class-04](./401/class-04.md)     |        |
-| [class-05](./401/class-05.md)     |        |
-| [class-06](./401/class-06.md)     |        |
-| [class-07](./401/class-07.md)     |        |
-| [class-08](./401/class-08.md)     |        |
-| [class-09](./401/class-09.md)     |        |
-| [class-10](./401/class-10.md)     |        |
-| [class-11](./401/class-11.md)     |        |
-| [class-12](./401/class-12.md)     |        |
-| [class-13](./401/class-13.md)     |        |
-| [class-14](./401/class-14.md)     |        |
-| [class-15](./401/class-15.md)     |        |
+| [class-01](./code-401-python/class-01.md)     |   Intro to Python     |
+| [class-02](./code-401-python/class-02.md)     |        |
+| [class-03](./code-401-python/class-03.md)     |        |
+| [class-04](./code-401-python/class-04.md)     |        |
+| [class-05](./code-401-python/class-05.md)     |        |
+| [class-06](./code-401-python/class-06.md)     |        |
+| [class-07](./code-401-python/class-07.md)     |        |
+| [class-08](./code-401-python/class-08.md)     |        |
+| [class-09](./code-401-python/class-09.md)     |        |
+| [class-10](./code-401-python/class-10.md)     |        |
+| [class-11](./code-401-python/class-11.md)     |        |
+| [class-12](./code-401-python/class-12.md)     |        |
+| [class-13](./code-401-python/class-13.md)     |        |
+| [class-14](./code-401-python/class-14.md)     |        |
+| [class-15](./code-401-python/class-15.md)     |        |
