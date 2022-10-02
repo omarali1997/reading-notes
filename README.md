@@ -1,4 +1,5 @@
 ># reading-notes
+YOU CAN JOIN A LIVE LINK FOR THIS NOTES :  https://omarali1997.github.io/reading-notes/
 
 ### This web site is about my notes and questions from the reading assignments 
 
