@@ -32,7 +32,7 @@
 | ----------------------------- | ------------------------------------------ |
 | [class-01](./code-401-python/class-01.md)     |   Intro to Python     |
 | [class-02](./code-401-python/class-02.md)     |  Testing and Modules  |
-| [class-03](./code-401-python/class-03.md)     |        |
+| [class-03](./code-401-python/class-03.md)     |  Whiteboarding + Big O|
 | [class-04](./code-401-python/class-04.md)     |        |
 | [class-05](./code-401-python/class-05.md)     |        |
 | [class-06](./code-401-python/class-06.md)     |        |
