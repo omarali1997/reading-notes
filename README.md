@@ -35,7 +35,7 @@
 | [class-03](./code-401-python/class-03.md)     | Whiteboarding + Big O |
 | [class-04](./code-401-python/class-04.md)     | FileIO & Exceptions   |
 | [class-05](./code-401-python/class-05.md)     | Intro to OOP          |
-| [class-06](./code-401-python/class-06.md)     |        |
+| [class-06](./code-401-python/class-06.md)     | OOP Part02            |
 | [class-07](./code-401-python/class-07.md)     |        |
 | [class-08](./code-401-python/class-08.md)     |        |
 | [class-09](./code-401-python/class-09.md)     |        |
