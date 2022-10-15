@@ -36,7 +36,7 @@
 | [class-04](./code-401-python/class-04.md)     | FileIO & Exceptions   |
 | [class-05](./code-401-python/class-05.md)     | Intro to OOP          |
 | [class-06](./code-401-python/class-06.md)     | OOP Part02            |
-| [class-07](./code-401-python/class-07.md)     |        |
+| [class-07](./code-401-python/class-07.md)     | Data Analysis         |
 | [class-08](./code-401-python/class-08.md)     |        |
 | [class-09](./code-401-python/class-09.md)     |        |
 | [class-10](./code-401-python/class-10.md)     |        |
