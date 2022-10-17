@@ -1,6 +1,6 @@
 # Read 08 Data Analysis with Pandas
 
->## Pandas
+># Pandas
 * ## What is pandas in Python?
 
 ### pandas (all lowercase) is a popular Python-based data analysis toolkit which can be imported using `import pandas as pd`. It presents a diverse range of utilities, ranging from parsing multiple file formats to converting an entire data table into a `NumPy` matrix array. This makes pandas a trusted ally in data science and machine learning.
