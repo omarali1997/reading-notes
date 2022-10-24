@@ -40,7 +40,7 @@
 | [class-08](./code-401-python/class-08.md)     | Data Analysis with Pandas |
 | [class-09](./code-401-python/class-09.md)     | Linkedlist                |
 | [class-10](./code-401-python/class-10.md)     | Linear Regressions        |
-| [class-11](./code-401-python/class-11.md)     |        |
+| [class-11](./code-401-python/class-11.md)     | Data Visualization        |
 | [class-12](./code-401-python/class-12.md)     |        |
 | [class-13](./code-401-python/class-13.md)     |        |
 | [class-14](./code-401-python/class-14.md)     |        |
