@@ -42,6 +42,6 @@
 | [class-10](./code-401-python/class-10.md)     | Linear Regressions        |
 | [class-11](./code-401-python/class-11.md)     | Data Visualization        |
 | [class-12](./code-401-python/class-12.md)     | Stack and Queue           |
-| [class-13](./code-401-python/class-13.md)     | Serverless Functions       |
-| [class-14](./code-401-python/class-14.md)     |        |
+| [class-13](./code-401-python/class-13.md)     | Serverless Functions      |
+| [class-14](./code-401-python/class-14.md)     | Web Scraping              |
 | [class-15](./code-401-python/class-15.md)     |        |
