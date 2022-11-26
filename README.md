@@ -4,8 +4,8 @@
 
 ## Code 102 - Intro to Software Development
 ## Code 201 - Foundations of Software Development
-## Code 301 - Intermediate Software Development
 #
+## Code 301 - Intermediate Software Development
 
 | First Header                  | Second Header                                  |
 | ----------------------------- | ---------------------------------------------- |
@@ -26,7 +26,7 @@
 | [class-15](./301/class-15.md)     | Authentication                             |
 
 #
-## Code 401 - Advanced Software Development
+## Code 401 - Advanced Software Development `Part 01`
 
 | First Header                  | Second Header                             |
 | ----------------------------- | ----------------------------------------- |
@@ -47,8 +47,26 @@
 | [class-15](./code-401-python/class-15.md)     | Tree                      |
 | [class-16](./code-401-python/class-16.md)     | Cryptography              |
 | [class-17](./code-401-python/class-17.md)     | Automation                |
-| [class-18](./code-401-python/class-18.md)     |        |
-| [class-19](./code-401-python/class-19.md)     |        |
-| [class-20](./code-401-python/class-20.md)     |        |
 
+# |                `Mid Project`                |       `Mid Project`       |
+#
+## Code 401 - Advanced Software Development `Part 02`
 
+| First Header                  | Second Header                             |
+| ----------------------------- | ----------------------------------------- |
+| [class-19](./code-401-python/class-19.md)     | Intro to Django           |
+| [class-21](./code-401-python/class-21.md)     |        |
+| [class-22](./code-401-python/class-22.md)     |        |
+| [class-23](./code-401-python/class-23.md)     |        |
+| [class-24](./code-401-python/class-24.md)     |        |
+| [class-25](./code-401-python/class-25.md)     |        |
+| [class-26](./code-401-python/class-26.md)     |        |
+| [class-27](./code-401-python/class-27.md)     |        |
+| [class-28](./code-401-python/class-28.md)     |        |
+| [class-29](./code-401-python/class-29.md)     |        |
+| [class-30](./code-401-python/class-35.md)     |        |
+| [class-31](./code-401-python/class-30.md)     |        |
+| [class-32](./code-401-python/class-31.md)     |        |
+| [class-33](./code-401-python/class-32.md)     |        |
+| [class-34](./code-401-python/class-33.md)     |        |
+| [class-35](./code-401-python/class-34.md)     |        |
