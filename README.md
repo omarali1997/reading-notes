@@ -55,7 +55,7 @@
 | First Header                  | Second Header                             |
 | ----------------------------- | ----------------------------------------- |
 | [class-19](./code-401-python/class-19.md)     | Intro to Django           |
-| [class-21](./code-401-python/class-20.md)     | Django Models             |
+| [class-20](./code-401-python/class-20.md)     | Django Models             |
 | [class-21](./code-401-python/class-21.md)     |             |
 | [class-22](./code-401-python/class-22.md)     |        |
 | [class-23](./code-401-python/class-23.md)     |        |
@@ -65,9 +65,9 @@
 | [class-27](./code-401-python/class-27.md)     |        |
 | [class-28](./code-401-python/class-28.md)     |        |
 | [class-29](./code-401-python/class-29.md)     |        |
-| [class-31](./code-401-python/class-30.md)     |        |
-| [class-32](./code-401-python/class-31.md)     |        |
-| [class-33](./code-401-python/class-32.md)     |        |
-| [class-34](./code-401-python/class-33.md)     |        |
-| [class-35](./code-401-python/class-34.md)     |        |
-| [class-30](./code-401-python/class-35.md)     |        |
+| [class-30](./code-401-python/class-30.md)     |        |
+| [class-31](./code-401-python/class-31.md)     |        |
+| [class-32](./code-401-python/class-32.md)     |        |
+| [class-33](./code-401-python/class-33.md)     |        |
+| [class-34](./code-401-python/class-34.md)     |        |
+| [class-35](./code-401-python/class-35.md)     |        |
