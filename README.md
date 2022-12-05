@@ -57,7 +57,7 @@
 | [class-19](./code-401-python/class-19.md)     | Intro to Django           |
 | [class-20](./code-401-python/class-20.md)     | Django Models             |
 | [class-21](./code-401-python/class-21.md)     | Django CRUD and Forms     |
-| [class-22](./code-401-python/class-22.md)     |        |
+| [class-22](./code-401-python/class-22.md)     | Django Custom User        |
 | [class-23](./code-401-python/class-23.md)     |        |
 | [class-24](./code-401-python/class-24.md)     |        |
 | [class-25](./code-401-python/class-25.md)     |        |
