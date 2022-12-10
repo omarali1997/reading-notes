@@ -52,14 +52,14 @@
 #
 ## Code 401 - Advanced Software Development `Part 02`
 
-| First Header                  | Second Header                             |
-| ----------------------------- | ----------------------------------------- |
-| [class-19](./code-401-python/class-19.md)     | Intro to Django           |
-| [class-20](./code-401-python/class-20.md)     | Django Models             |
-| [class-21](./code-401-python/class-21.md)     | Django CRUD and Forms     |
-| [class-22](./code-401-python/class-22.md)     | Django Custom User        |
-| [class-23](./code-401-python/class-23.md)     | Hashtabels                |
-| [class-24](./code-401-python/class-24.md)     |        |
+| First Header                  | Second Header                                        |
+| ----------------------------- | -----------------------------------------            |
+| [class-19](./code-401-python/class-19.md)     | Intro to Django                      |
+| [class-20](./code-401-python/class-20.md)     | Django Models                        |
+| [class-21](./code-401-python/class-21.md)     | Django CRUD and Forms                |
+| [class-22](./code-401-python/class-22.md)     | Django Custom User                   |
+| [class-23](./code-401-python/class-23.md)     | Hashtabels                           |
+| [class-24](./code-401-python/class-24.md)     | Django REST Framework & Docker       |
 | [class-25](./code-401-python/class-25.md)     |        |
 | [class-26](./code-401-python/class-26.md)     |        |
 | [class-27](./code-401-python/class-27.md)     |        |
