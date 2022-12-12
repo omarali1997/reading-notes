@@ -61,7 +61,7 @@
 | [class-23](./code-401-python/class-23.md)     | Hashtabels                           |
 | [class-24](./code-401-python/class-24.md)     | Django REST Framework & Docker       |
 | [class-25](./code-401-python/class-25.md)     |        |
-| [class-26](./code-401-python/class-26.md)     |        |
+| [class-26](./code-401-python/class-26.md)     | Permissions & Postgresql             |
 | [class-27](./code-401-python/class-27.md)     |        |
 | [class-28](./code-401-python/class-28.md)     |        |
 | [class-29](./code-401-python/class-29.md)     |        |
