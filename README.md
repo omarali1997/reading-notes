@@ -63,7 +63,7 @@
 | [class-25](./code-401-python/class-25.md)     |       -----------------------------  |
 | [class-26](./code-401-python/class-26.md)     | Permissions & Postgresql             |
 | [class-27](./code-401-python/class-27.md)     | Graphs                               |
-| [class-28](./code-401-python/class-28.md)     |        |
+| [class-28](./code-401-python/class-28.md)     | Authentication & Production Server   |
 | [class-29](./code-401-python/class-29.md)     |        |
 | [class-30](./code-401-python/class-30.md)     |        |
 | [class-31](./code-401-python/class-31.md)     |        |
