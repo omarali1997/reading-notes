@@ -67,7 +67,7 @@
 | [class-29](./code-401-python/class-29.md)     | API Deployment                       |
 | [class-30](./code-401-python/class-30.md)     |      ------------------------------  |
 | [class-31](./code-401-python/class-31.md)     | React Review                         |
-| [class-32](./code-401-python/class-32.md)     |        |
+| [class-32](./code-401-python/class-32.md)     | Intro to Next.js & Tailwind CSS      |
 | [class-33](./code-401-python/class-33.md)     |        |
 | [class-34](./code-401-python/class-34.md)     |        |
 | [class-35](./code-401-python/class-35.md)     |        |
