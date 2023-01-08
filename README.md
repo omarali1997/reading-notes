@@ -71,3 +71,4 @@
 | [class-33](./code-401-python/class-33.md)     | Next- Forms and Conditional Rendering|
 | [class-34](./code-401-python/class-34.md)     | Context API                          |
 | [class-35](./code-401-python/class-35.md)     | Authentication                       |
+| [class-36](./code-401-python/class-36.md)     | Fetching Data                        |
